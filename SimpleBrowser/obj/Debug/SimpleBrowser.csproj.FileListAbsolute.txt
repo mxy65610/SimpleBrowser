@@ -1,0 +1,8 @@
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.exe
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\bin\Debug\SimpleBrowser.pdb
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csprojResolveAssemblyReference.cache
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.Form1.resources
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.Properties.Resources.resources
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.csproj.GenerateResource.Cache
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.exe
+c:\users\祥毅\documents\visual studio 2015\Projects\SimpleBrowser\SimpleBrowser\obj\Debug\SimpleBrowser.pdb
